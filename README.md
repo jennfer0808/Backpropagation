@@ -1,9 +1,9 @@
 # Backpropagation
-
+Backpropagation has been widly used in deep learning
 
 
 ## DNN
-Back
+
 
 ## CNN
 
